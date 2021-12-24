@@ -1,0 +1,20 @@
+{
+  "type": "module",
+  "name": "htmlfrommarkdown",
+  "description": "A html from markdown generator",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wwwouaiebe/HtmlFromMarkDown.git"
+  },
+  "engines": {
+    "node": ">=16.13.0"
+  },
+  "author": "wwwouaiebe",
+  "license": "GPL-3.0",
+  "sources": "https://github.com/wwwouaiebe/HtmlFromMarkDown",
+  "homepage": "https://github.com/wwwouaiebe/HtmlFromMarkDown#readme",
+  "devDependencies": {
+    "marked": "latest"
+  }
+}
