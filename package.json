@@ -2,7 +2,7 @@
   "type": "module",
   "name": "htmlfrommarkdown",
   "description": "A html from markdown generator",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/wwwouaiebe/HtmlFromMarkDown.git"
